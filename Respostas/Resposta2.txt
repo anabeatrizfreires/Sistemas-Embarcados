@@ -1,0 +1,54 @@
+1. Por que o Linux recebeu esse nome?
+	Foi inspirado na junção do nome do criador: Linus e o sistema operacional anterior a este: Unix
+2. O que são daemons?
+	É um tipo de usuário em plano de fundo.
+3. O que é o shell?
+	Shell é um interpretador de comandos do Linux.
+4. Por que é importante evitar executar o terminal como super-usuário?
+	Usar o sudo por muitas vezes aumenta a chance de cometer erros em relaçao ao sistema operacional, como apagar toda a memória ou um código com apenas um somando de super usuário
+5. Qual botão do teclado completa o que o usuário escreve no terminal, de acordo com o contexto?
+	É o botão TAB.
+
+6. Quais botões do teclado apresentam instruções escritas anteriormente?
+	Os botões de seta para cima e de seta para baixo, ctrl + r e ctrl + s.
+7. Apresente os respectivos comandos no terminal para:
+(a) Obter mais informações sobre um comando.
+	help, man
+(b) Apresentar uma lista com os arquivos dentro de uma pasta.
+	ls
+(c) Apresentar o caminho completo da pasta.
+	pwd
+(d) Trocar de pasta.
+	cd
+(e) Criar uma pasta.
+	mkdir
+(f) Apagar arquivos definitivamente.
+	rm
+(g) Apagar pastas definitivamente.
+	-r rm
+(h) Copiar arquivos.
+	cp
+(i) Copiar pastas.
+	-r cp
+(j) Mover arquivos.
+	mv
+(k) Mover pastas.
+	-r mv
+(l) Renomear pastas.
+	mv -R
+(m) Apresentar o conteúdo de um arquivo. 
+	cat
+(n) Apresentar o tipo de um arquivo.
+	file 
+(o) Limpar a tela do terminal.
+	clear 
+(p) Encontrar ocorrências de palavras-chave em um arquivo-texto.
+	grep 
+(q) Ordenar informações em um arquivo-texto. 
+	sort
+(r) Substituir ocorrências de palavras-chave em um arquivo-texto.
+	sed 
+(s) Conferir se dois arquivos são iguais. 
+	cmp
+(t) Escrever algo na tela.
+	echo
